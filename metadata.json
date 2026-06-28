@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero",
+  "description": "Hyperlocal community problem solver allowing citizens to report, track, and resolve local infrastructure and public service issues with AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
